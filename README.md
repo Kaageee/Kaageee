@@ -16,9 +16,6 @@ Hi it's Kaageee, I'm a french developper who touches a little bit all the langua
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kaageee&theme=dark&background=1D1F21" />
 <a/>
 <br>
-<a href="https://github.com/Kaageee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaageee&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<a/>
 
 ## 🔧 My infos 
 <h1 align="center">
