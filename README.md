@@ -27,6 +27,7 @@ Hi it's Kaageee, I'm a french developper who touches a little bit all the langua
 	<img src="https://komarev.com/ghpvc/?username=Kaageee" alt="Kaageee" />
 	</a>
 </h1>
+## IMPORTANT : NEW DISCORD : KAAGEEE#1111
 
 
 
